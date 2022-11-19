@@ -1,5 +1,5 @@
 {
-    "id": "contentful-extension-seo",
+    "id": "dustinnewboldyml-seo",
     "name": "SEO",
-    "src": "build/index.html"
+    "srcdoc": "./build/index.html"
 }
