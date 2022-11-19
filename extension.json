@@ -1,0 +1,5 @@
+{
+    "id": "contentful-extension-seo",
+    "name": "SEO",
+    "src": "build/index.html"
+}
